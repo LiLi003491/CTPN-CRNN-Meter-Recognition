@@ -41,7 +41,6 @@ git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/
 cd YourRepoName
 pip install -r requirements.txt
 
-···
 
 ## 🚀 How to Run (Inference)
 
