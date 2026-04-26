@@ -1,0 +1,358 @@
+filename:./train_data/data/00119.jpg
+pred  :39799
+target:3979
+filename:./train_data/data/00120.jpg
+pred  :39895
+target:3985
+filename:./train_data/data/00121.jpg
+pred  :39792
+target:3972
+filename:./train_data/data/00122.jpg
+pred  :39903
+target:3990
+filename:./train_data/data/00124.jpg
+pred  :39893
+target:3983
+filename:./train_data/data/00126.jpg
+pred  :3990
+target:3970
+filename:./train_data/data/00133.jpg
+pred  :39320
+target:3930
+filename:./train_data/data/00146.jpg
+pred  :38798
+target:3878
+filename:./train_data/data/00168.jpg
+pred  :38789
+target:3878
+filename:./train_data/data/074.jpg
+pred  :3915
+target:3916
+filename:./train_data/data/i12.jpg
+pred  :
+target:00000
+filename:./train_data/data/i13.jpg
+pred  :
+target:00000
+filename:./train_data/data/i14.jpg
+pred  :
+target:00000
+filename:./train_data/data/i15.jpg
+pred  :
+target:00000
+filename:./train_data/data/i16.jpg
+pred  :
+target:00000
+filename:./train_data/data/i17.jpg
+pred  :
+target:00000
+filename:./train_data/data/i18.jpg
+pred  :
+target:00000
+filename:./train_data/data/i19.jpg
+pred  :
+target:00000
+filename:./train_data/data/i2.jpg
+pred  :131
+target:00000
+filename:./train_data/data/i20.jpg
+pred  :
+target:00000
+filename:./train_data/data/011556.jpg
+pred  :114108
+target:11418
+filename:./train_data/data/012739.jpg
+pred  :114108
+target:11418
+filename:./train_data/data/014515.jpg
+pred  :114108
+target:11418
+filename:./train_data/data/015109.jpg
+pred  :114108
+target:11418
+filename:./train_data/data/023218.jpg
+pred  :114108
+target:11418
+filename:./train_data/data/232815.jpg
+pred  :4717420
+target:11420
+filename:./train_data/data/233406.jpg
+pred  :1142
+target:11420
+filename:./train_data/data/233959.jpg
+pred  :47742
+target:11420
+filename:./train_data/data/234553.jpg
+pred  :47742
+target:11420
+filename:./train_data/data/235145.jpg
+pred  :47742
+target:11420
+filename:./train_data/data/235739.jpg
+pred  :47742
+target:11420
+filename:./train_data/data/000119.jpg
+pred  :
+target:000135
+filename:./train_data/data/000711.jpg
+pred  :
+target:000135
+filename:./train_data/data/001303.jpg
+pred  :
+target:000135
+filename:./train_data/data/001854.jpg
+pred  :
+target:000135
+filename:./train_data/data/002445.jpg
+pred  :
+target:000135
+filename:./train_data/data/003036.jpg
+pred  :
+target:000135
+filename:./train_data/data/003626.jpg
+pred  :
+target:000135
+filename:./train_data/data/004218.jpg
+pred  :
+target:000135
+filename:./train_data/data/004811.jpg
+pred  :
+target:000135
+filename:./train_data/data/000220.jpg
+pred  :
+target:000141
+filename:./train_data/data/000813.jpg
+pred  :
+target:000141
+filename:./train_data/data/001404.jpg
+pred  :
+target:000141
+filename:./train_data/data/001956.jpg
+pred  :
+target:000141
+filename:./train_data/data/002546.jpg
+pred  :
+target:000141
+filename:./train_data/data/003137.jpg
+pred  :
+target:000141
+filename:./train_data/data/003728.jpg
+pred  :
+target:000141
+filename:./train_data/data/004320.jpg
+pred  :
+target:000141
+filename:./train_data/data/004913.jpg
+pred  :
+target:000141
+filename:./train_data/data/005506.jpg
+pred  :
+target:000141
+filename:./train_data/data/010058.jpg
+pred  :
+target:000141
+filename:./train_data/data/010649.jpg
+pred  :
+target:000141
+filename:./train_data/data/011240.jpg
+pred  :
+target:000141
+filename:./train_data/data/011832.jpg
+pred  :
+target:000141
+filename:./train_data/data/012423.jpg
+pred  :
+target:000141
+filename:./train_data/data/013015.jpg
+pred  :
+target:000141
+filename:./train_data/data/013607.jpg
+pred  :
+target:000141
+filename:./train_data/data/232458.jpg
+pred  :00 15
+target:000141
+filename:./train_data/data/232712.jpg
+pred  :
+target:000141
+filename:./train_data/data/233051.jpg
+pred  :00 15
+target:000141
+filename:./train_data/data/233303.jpg
+pred  :
+target:000141
+filename:./train_data/data/233642.jpg
+pred  :0 00 15
+target:000141
+filename:./train_data/data/233854.jpg
+pred  :
+target:000141
+filename:./train_data/data/234236.jpg
+pred  :00 15
+target:000141
+filename:./train_data/data/234446.jpg
+pred  :
+target:000141
+filename:./train_data/data/234829.jpg
+pred  :0 00151
+target:000141
+filename:./train_data/data/235038.jpg
+pred  :
+target:000141
+filename:./train_data/data/235423.jpg
+pred  :0 001451
+target:000141
+filename:./train_data/data/235629.jpg
+pred  :
+target:000141
+filename:./train_data/data/0593.jpg
+pred  :3905
+target:3915
+filename:./train_data/data/0595.jpg
+pred  :3900
+target:3910
+filename:./train_data/data/0597.jpg
+pred  :3905
+target:3915
+filename:./train_data/data/0599.jpg
+pred  :3904
+target:3914
+filename:./train_data/data/0600.jpg
+pred  :3906
+target:3916
+filename:./train_data/data/0602.jpg
+pred  :3909
+target:3919
+filename:./train_data/data/0566.jpg
+pred  :36867
+target:3867
+filename:./train_data/data/10.jpg
+pred  :
+target:00000
+filename:./train_data/data/11.jpg
+pred  :
+target:00000
+filename:./train_data/data/110.jpg
+pred  :
+target:00000
+filename:./train_data/data/1100.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1101.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1102.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1103.jpg
+pred  :11
+target:00000
+filename:./train_data/data/1104.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1105.jpg
+pred  :11
+target:00000
+filename:./train_data/data/1106.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1107.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1108.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1109.jpg
+pred  :11
+target:00000
+filename:./train_data/data/111.jpg
+pred  :
+target:00000
+filename:./train_data/data/1110.jpg
+pred  :11
+target:00000
+filename:./train_data/data/1111.jpg
+pred  :11
+target:00000
+filename:./train_data/data/1112.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1113.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1114.jpg
+pred  :111
+target:00000
+filename:./train_data/data/1115.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1116.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1117.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1118.jpg
+pred  :1
+target:00000
+filename:./train_data/data/1119.jpg
+pred  :111
+target:00000
+filename:./train_data/data/112.jpg
+pred  :
+target:00000
+filename:./train_data/data/a139.jpg
+pred  :
+target:00
+filename:./train_data/data/a140.jpg
+pred  :
+target:00
+filename:./train_data/data/a141.jpg
+pred  :
+target:00
+filename:./train_data/data/a142.jpg
+pred  :
+target:163
+filename:./train_data/data/a143.jpg
+pred  :
+target:00
+filename:./train_data/data/a144.jpg
+pred  :
+target:00
+filename:./train_data/data/a145.jpg
+pred  :
+target:192
+filename:./train_data/data/a146.jpg
+pred  :
+target:00
+filename:./train_data/data/a147.jpg
+pred  :
+target:00
+filename:./train_data/data/a148.jpg
+pred  :
+target:00
+filename:./train_data/data/a149.jpg
+pred  :
+target:00
+filename:./train_data/data/a150.jpg
+pred  :
+target:00
+filename:./train_data/data/a151.jpg
+pred  :
+target:203
+filename:./train_data/data/a152.jpg
+pred  :
+target:00
+filename:./train_data/data/a153.jpg
+pred  :
+target:00
+filename:./train_data/data/a154.jpg
+pred  :
+target:00
+filename:./train_data/data/a155.jpg
+pred  :
+target:00
+filename:./train_data/data/a156.jpg
+pred  :
+target:277
+ocr_correct: 184/303/0.6072607260726073
