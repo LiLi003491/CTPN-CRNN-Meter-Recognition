@@ -40,3 +40,20 @@ Precise detection and recognition of characters on industrial LED panels.
 git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
 cd YourRepoName
 pip install -r requirements.txt
+
+···
+
+## 🚀 How to Run (Inference)
+
+Follow these steps to run the OCR recognition on your own images:
+
+1. **Prepare your environment**: Make sure you have installed all dependencies and downloaded the pre-trained weights.
+2. **Place images**: Put the meter images you want to recognize into the `test_images/` folder.
+3. **Execute the script**: Run the following command in your terminal:
+
+```bash
+# Run OCR on a single image
+python predict.py --input ./test_images/t5.jpg
+
+# (Optional) If you want to save the results to a specific folder
+python predict.py --input ./test_images/t2.jpg --output ./results/
